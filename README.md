@@ -18,15 +18,19 @@ Linguify is an open-source web application that utilizes React, JavaScript, Pyth
 
 Note: To install ffmpeg, follow the instructions below:
 For Linux:
+
 '''sh
 sudo apt update && sudo apt install ffmpeg
 '''
+
 For MacOS:
+
 '''sh
 brew install ffmpeg
 '''
 
 For Windows:
+
 '''sh
 choco install ffmpeg
 '''
@@ -45,21 +49,25 @@ npm install
 '''
 
 Once the installation is complete, start the React application by running:
+
 '''sh
 npm start
 '''
 
 Next, navigate to the Back-end directory and install the necessary dependencies by running:
+
 '''sh
 python -m venv myenv
 pip install -r requirements.txt
 '''
 
 To run the Flask back-end, activate the virtual environment by running:
+
 '''sh
 venv/Scripts/activate
 '''
 Finally, start the Flask server by running:
+
 '''sh
 python app.py or flask run
 '''
