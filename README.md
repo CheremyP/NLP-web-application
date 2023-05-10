@@ -2,7 +2,8 @@
 Linguify is an open-source web application that utilizes React, JavaScript, Python, TailwindCSS, and Flask back-end. It serves as an excellent tool for those who want to convert text from one language to another.
 
 ## Features
-- 🌍 **Internationalization** - A total of 85 languages to translate and enables real-time audio translation
+- 🌍 **Internationalization** - Say goodbye to language barriers and hello to a world of communication with our audio translation web app.
+With a total of 85 languages to translate and enables real-time audio translation
 
 - 🛸 **Files** - Compatible with various files like mp3,m4a, 
 
